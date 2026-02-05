@@ -1,0 +1,14 @@
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Debug\net8.0-windows\TrayPingMonitor.exe
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Debug\net8.0-windows\TrayPingMonitor.deps.json
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Debug\net8.0-windows\TrayPingMonitor.runtimeconfig.json
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Debug\net8.0-windows\TrayPingMonitor.dll
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Debug\net8.0-windows\TrayPingMonitor.pdb
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.AssemblyInfoInputs.cache
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.AssemblyInfo.cs
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.dll
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\refint\TrayPingMonitor.dll
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.pdb
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\TrayPingMonitor.genruntimeconfig.cache
+C:\Users\Rostam\Desktop\TrayPingMonitor\obj\Debug\net8.0-windows\ref\TrayPingMonitor.dll

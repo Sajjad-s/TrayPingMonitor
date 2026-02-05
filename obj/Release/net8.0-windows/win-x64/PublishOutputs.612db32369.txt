@@ -1,0 +1,5 @@
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Release\net8.0-windows\win-x64\publish\TrayPingMonitor.exe
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Release\net8.0-windows\win-x64\publish\TrayPingMonitor.dll
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Release\net8.0-windows\win-x64\publish\TrayPingMonitor.deps.json
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Release\net8.0-windows\win-x64\publish\TrayPingMonitor.runtimeconfig.json
+C:\Users\Rostam\Desktop\TrayPingMonitor\bin\Release\net8.0-windows\win-x64\publish\TrayPingMonitor.pdb
