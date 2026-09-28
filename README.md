@@ -24,7 +24,7 @@ Ping runs asynchronously (no UI freezes) using `System.Net.NetworkInformation.Pi
 ## Requirements
 
 - Windows 10/11
-- .NET SDK 8.x (LTS recommended)
+- .NET SDK 10.x (current LTS)
 
 Check your SDK:
 
@@ -96,7 +96,7 @@ dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=
 
 Output:
 
-`bin\Release\net8.0-windows\win-x64\publish\`
+`bin\Release\net10.0-windows\win-x64\publish\`
 
 Distribute `TrayPingMonitor.exe` (and any other files in that folder if present).
 
@@ -128,7 +128,7 @@ Compression=lzma
 SolidCompression=yes
 
 [Files]
-Source: "bin\Release\net8.0-windows\win-x64\publish\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "bin\Release\net10.0-windows\win-x64\publish\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\Tray Ping Monitor"; Filename: "{app}\TrayPingMonitor.exe"
